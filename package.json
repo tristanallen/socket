@@ -1,0 +1,21 @@
+{
+  "name": "websocket-node-express",
+  "version": "1.0.0",
+  "description": "sockets and that",
+  "main": "index.js",
+  "scripts": {
+    "test": "yeah"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "websocket": "^1.0.31",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "@types/ws": "^7.2.0",
+    "typescript": "^3.7.5"
+  }
+}
