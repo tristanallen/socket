@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "yeah",
-    "build": "tsc"
+    "build": "tsc && node ./public/server.js"
   },
   "author": "",
   "license": "ISC",
